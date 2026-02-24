@@ -5,7 +5,15 @@ theme = 'hugo-theme-nix'
 
 [params]
   Name = "Hello, I'm Mikołaj"
-  HeaderUsername = "username"
-  HeaderHostname = "hostname"
-  About = "info_about_you"
-  ProfilePicture = "profile_picture_url"
+  HeaderUsername = "xRezek"
+  HeaderHostname = "maj"
+  About = "Laravel / DevOps Solutions Developer from Poland."
+
+  Email = "mikolaj.maj22@gmail.com"
+  GithubID = "xRezek"
+
+[menu]
+  [[menu.header]]
+    name = "projects"
+    weight = 0
+    url = "/projects"
