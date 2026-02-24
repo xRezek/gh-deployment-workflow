@@ -7,6 +7,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+hugo-theme-nix
 
 # Executable may be added to repository
 hugo.exe
@@ -16,4 +17,4 @@ hugo.linux
 # Temporary lock file while building
 /.hugo_build.lock
 
-# End of https://www.toptal.com/developers/gitignore/api/hugo
+# End of https://www.toptal.com/developers/gitignore/api/hugome/.hugo_build.lock
