@@ -11,7 +11,7 @@ theme = 'hugo-theme-nix'
 
   Email = "mikolaj.maj22@gmail.com"
   GithubID = "xRezek"
-
+#
 [menu]
   [[menu.header]]
     name = "projects"
