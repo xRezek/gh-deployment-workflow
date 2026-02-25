@@ -1,19 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = ''
+title = 'Mikołaj Maj'
 theme = 'hugo-theme-nix'
 
 [params]
   Name = "Hello, I'm Mikołaj"
   HeaderUsername = "xRezek"
-  HeaderHostname = "maj"
+  HeaderHostname = "dev"
   About = "Laravel / DevOps Solutions Developer from Poland."
 
   Email = "mikolaj.maj22@gmail.com"
   GithubID = "xRezek"
-#
+
 [menu]
   [[menu.header]]
     name = "projects"
-    weight = 0
+    weight = 2
     url = "/projects"
+
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
