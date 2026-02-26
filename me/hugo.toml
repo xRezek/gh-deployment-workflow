@@ -13,10 +13,6 @@ theme = 'hugo-theme-nix'
   GithubID = "xRezek"
 
 [menu]
-  [[menu.header]]
-    name = "projects"
-    weight = 2
-    url = "/projects"
 
   [[menu.header]]
     name = "about"
